@@ -1,1 +1,1 @@
-ctiwndo  arquivo do estudo com git
+criando  arquivo do estudo com git
