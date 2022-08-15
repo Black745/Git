@@ -1,1 +1,1 @@
-criando  arquivo do estudo com git
+Estudando Versionamento de código com o git 
